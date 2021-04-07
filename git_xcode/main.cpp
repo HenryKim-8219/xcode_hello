@@ -17,5 +17,9 @@ int main(int argc, const char * argv[]) {
     std::cout << "Hello, Hyunsoo!\n";
     std::cout << "Hello, Miku!\n";
     
+    std::cout << "Hello, Miku! hotfix 브랜치에서 생성한 문자열!!!\n";
+
+    
+    
     return 0;
 }
