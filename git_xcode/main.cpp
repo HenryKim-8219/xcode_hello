@@ -19,7 +19,7 @@ int main(int argc, const char * argv[]) {
     
     std::cout << "Hello, Miku! hotfix 브랜치에서 생성한 문자열!!!\n";
     
-    std::cout << "원격 저장소에 연결 후\n";
+    std::cout << "원격 저장소에서 작성!!! 충돌예정?\n";
     
     
     return 0;
